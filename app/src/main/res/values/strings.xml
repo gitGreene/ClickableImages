@@ -9,4 +9,11 @@
     <string name="ice_cream_order_message">You ordered an ice cream sandwich.</string>
     <string name="froyo_order_message">You ordered a FroYo.</string>
     <string name="default_order_message">Order Message</string>
+    <string name="name_label_text">Name</string>
+    <string name="enter_name_hint">Enter your name</string>
+    <string name="address_label_text">Address</string>
+    <string name="enter_address_hint">Enter Address</string>
+    <string name="pick_up">Pick up</string>
+    <string name="same_day_messenger_service">Same day</string>
+    <string name="next_day_ground_delivery">Next day</string>
 </resources>
